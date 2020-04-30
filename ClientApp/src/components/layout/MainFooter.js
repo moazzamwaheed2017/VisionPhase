@@ -39,7 +39,7 @@ MainFooter.propTypes = {
 
 MainFooter.defaultProps = {
   contained: false,
-  copyright: "Copyright © 2020 EKSystem",
+  copyright: "Copyright © 2020 VisionPhase",
   menuItems: [
     {
       //title: "Home",
